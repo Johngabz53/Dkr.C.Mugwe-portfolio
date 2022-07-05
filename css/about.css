@@ -1,0 +1,10 @@
+*nav{
+    padding-top: 35px;
+}
+.hero{
+    height: 20vh;
+    width: 100%;
+    background-color: #101010;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,30 @@
+*
+nav{
+    padding-top: 35px;
+}
+.hero{
+    height: 20vh;
+    width: 100%;
+    background-color: #101010;
+    background-size: cover;
+    background-position: center;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    height: 500px;
+  }
+
+.swiper-slide img {
+   padding-top: 190px;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+.portfolio .container .row{
+    text-align: center;
+    justify-content: center;
+    padding-top: 25px;
+}
