@@ -100,7 +100,7 @@ nav #icon{
         top: 80px;
         text-align: center;
     }
-    nav li{
+    nav ul li{
         display: block;
         margin: 50px 0;
         line-height:30px;
@@ -110,8 +110,9 @@ nav #icon{
         transition: .4s;
     }
     nav ul li a:active{
-        border: 1px solid #f9004d;
+        border: none;
         transition: .5s;
+        color: #f9004d;
     }
 .content{
     position: absolute;
